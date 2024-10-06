@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import "../style/Homepage.css";
@@ -18,9 +19,7 @@ const Homepage = () => {
         </video>
       </section>
 
-      <section>
-
-      </section>
+      <section></section>
 
       <section className="events__section fade-in">
         <div className="event">
@@ -38,12 +37,9 @@ const Homepage = () => {
                 knowledge into practical applications. It addresses challenges
                 and creates innovative tools that improve our daily lives.
               </p>
-              <a
-                href="./Html/event pages/Technical.html"
-                className="event__overview"
-              >
+              <Link to="/technical" className="event__overview">
                 Explore
-              </a>
+              </Link>
             </div>
           </div>
         </div>
@@ -58,19 +54,12 @@ const Homepage = () => {
                 convey emotions and ideas. Its meaning is defined by the
                 artist's intent, allowing for limitless interpretation.
               </p>
-              <a
-                href="./Html/event pages/nonTechnical.html"
-                className="event__overview"
-              >
+              <Link to="/non-technical" className="event__overview">
                 Explore
-              </a>
+              </Link>
             </div>
           </div>
-          <img
-            className="event__image second_image"
-            src={NonTechnical}
-            alt=""
-          />
+          <img className="event__image second_image" src={NonTechnical} alt="" />
         </div>
 
         <div className="event fade-in">
@@ -83,12 +72,9 @@ const Homepage = () => {
                 always eager to learn more. Workshops serve as a meeting point
                 where inquisitive individuals and vast knowledge come together.
               </p>
-              <a
-                href="./Html/event pages/workshop.html"
-                className="event__overview"
-              >
+              <Link to="/workshop" className="event__overview">
                 Explore
-              </a>
+              </Link>
             </div>
           </div>
         </div>
