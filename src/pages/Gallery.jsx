@@ -65,7 +65,7 @@ const Gallery = () => {
       imgSrc: require('../Assets/images/clifford.jpeg'),
       email: '727722eumt027@skcet.ac.in',
       linkedin: 'https://www.linkedin.com/in/cliffordwesley',
-      instagram: 'https://www.instagram.com/clifford.wesley.c'
+      instagram: 'https://www.instagram.com/itsmecliffwesley'
     }
   ];
 
