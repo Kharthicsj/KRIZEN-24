@@ -1,0 +1,136 @@
+import React from "react";
+import "../../style/events.css";
+import Header from "../../components/Header";
+import Footer from "../../components/Footer";
+import DownloadLogo from "../../Assets/images/download.png";
+
+const WebDevelopment = () => {
+  return (
+    <div>
+      <Header />
+      <div className="main">
+        <div className="mainContent">
+          <div className="background"></div>
+          <div className="title">
+            <div className="heading">WEB/APP DEVELOPMENT</div>
+            <div className="main_links">
+              <a href="#registration-closed" className="register">
+                Registration Closed
+              </a>
+              <div className="register brochure">
+                <a href={"#brochure"} download="Paper Presentation Brochure">
+                  Brochure
+                </a>
+                <img className="download" src={DownloadLogo} alt="download" />
+              </div>
+            </div>
+          </div>
+          <div className="about">
+            <h2 className="aboutTitle">ABOUT</h2>
+            <p className="aboutContent">
+              Experience a fresh and modern Web/App Development event where
+              attendees can show-off their coding and design skills. This event is
+              organized for developers by developers, and strives to foster the
+              ideal social and learning experience. Featured topics include
+              languages and clean code, database, team performance, devops and
+              much more. Expand your network, connect and collaborate with peers
+              from around the world, and discover new ways to take your code and
+              application architecture to the next level.
+            </p>
+          </div>
+          <div className="details">
+            <h2 className="detailsTitle">DETAILS</h2>
+            <div className="detailsContent">
+              <div className="rounds">
+                <div className="roundsContent">
+                  <p>
+                    A specific topic will be provided to the participants on 31st
+                    August 2021. Participants will have to build a Website or an
+                    application based on the theme provided. Participants cannot
+                    build both. Two developers who prevail will be awarded
+                    accordingly.
+                  </p>
+                  <br />
+                  <div className="listsContent webListContent">
+                    <ul>
+                      <li>
+                        All design elements, code, etc. for your project must be
+                        created during the event.
+                      </li>
+                      <li>
+                        Third party tools and frameworks are allowed as well as
+                        your normal tooling.
+                      </li>
+                      <li>
+                        There are no restrictions as of the coding language you
+                        are using.
+                      </li>
+                      <li>Participants can submit only one entry.</li>
+                      <li>
+                        Participants can form a team containing maximum of FOUR
+                        members.
+                      </li>
+                      <li>
+                        If you are participating as a team, only the team leader
+                        has to register.
+                      </li>
+                      <li>
+                        Participants should also give a brief description about
+                        their website or application.
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <h3 className="roundsTitle">Judging Criteria</h3>
+                <div className="roundsContent">
+                  <p style={{ marginBottom: "1rem" }}>
+                    Participants will be judged based on the following criteria.
+                  </p>
+                  <div className="listsContent webListContent">
+                    <ul>
+                      <li>Realistic Capability</li>
+                      <li>Level of Innovation</li>
+                      <li>Design</li>
+                      <li>Bugginess</li>
+                    </ul>
+                  </div>
+                </div>
+                <h3 className="roundsTitle">Topic</h3>
+                <div className="roundsContent">
+                  <p style={{ marginBottom: "1rem" }}>
+                    HOBS(Household Online Booking Service).
+                  </p>
+                </div>
+                <h3 className="roundsTitle">Date & Timings</h3>
+                <div className="roundsContent">
+                  <p>Submission within 11:59 PM on 14.09.2021</p>
+                </div>
+                <p
+                  className="roundsContent"
+                  style={{ marginLeft: "0 !important" }}
+                >
+                  Last date for registration is 10.09.2021 within 6:00 PM
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="contacts">
+            <h2 className="contactsTitle">CONTACTS</h2>
+            <p className="contactsContent">
+              BARATH.B : <a href="tel:9620500072">9620500072</a>
+            </p>
+            <p className="contactsContent">
+              ASIF MUHAMMED : <a href="tel:9786721143">9786721143</a>
+            </p>
+            <p className="contactsContent">
+              B KESHAV : <a href="tel:8754275064">8754275064</a>
+            </p>
+          </div>
+        </div>
+      </div>
+      <Footer />
+    </div>
+  );
+};
+
+export default WebDevelopment;

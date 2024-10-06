@@ -1,0 +1,172 @@
+* {
+    box-sizing: border-box;
+}
+
+.footer__section {
+    width: 100%;
+    max-height: 70vh;
+    padding: 3% 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #2965B6;
+    color: white;
+    overflow: hidden;
+}
+
+.footer__content {
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    width: 100%;
+}
+
+.footer__top {
+    display: flex;
+    margin-bottom: 2rem;
+    margin-left: 25rem;
+    flex-wrap: wrap;
+}
+
+.events__links {
+    border-right: 1.5px solid #2965B6;
+    display: flex;
+    margin-right: 3rem;
+    padding-right: 1rem;
+}
+
+.technical__links,
+.non-technical__links,
+.workshop__links {
+    display: flex;
+    flex-direction: column;
+    margin-right: 4rem;
+}
+
+.link__title {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.technical__links a,
+.events__links a {
+    text-decoration: none;
+    font-size: 0.9rem;
+    color: white;
+    opacity: 0.8;
+    margin-bottom: 0.5rem;
+}
+
+.technical__links a:hover,
+.events__links a:hover {
+    opacity: 1;
+}
+
+.footer__contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+
+.contact__info {
+    text-align: center;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.info__title {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.info__mail {
+    display: flex;
+    align-items: center;
+}
+
+.mail{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.footer__phone {
+    padding: 4% 2%;
+    display: none;
+    background-color: #2965B6;
+}
+
+.phone__content {
+    display: flex;
+    flex-direction: column;
+}
+
+.top__content,
+.middle__content,
+.bottom__content {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
+.top__content a{
+    color: white;
+    text-decoration: none;
+}
+
+.sm__logo__phone{
+    margin-right: 2rem;
+    text-align: center;
+    display: inline-flex;
+    padding: 1.2rem;
+}
+
+.contact__social{
+    margin-left: 1.5rem;
+}
+
+.social__logo{
+    margin-left: 2.5rem;
+}
+
+.footer__phone .top__content p {
+    margin: 0 5%;
+    opacity: 0.6;
+}
+
+.college {
+    text-align: center;
+}
+
+.college img {
+    width: 55px;
+    height: 45px;
+    margin-bottom: 0.5rem;
+}
+
+.college p {
+    color: white;
+    opacity: 0.9;
+    font-size: 0.9rem;
+}
+
+.college p + p {
+    margin-top: 0.5rem;
+}
+
+.sm__image{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+@media screen and (max-width: 568px) {
+    .footer__content {
+        display: none !important;
+    }
+    .footer__phone {
+        display: flex !important;
+    }
+}
