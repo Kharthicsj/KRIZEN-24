@@ -46,41 +46,43 @@ const Cadfest = () => {
                 <div className="roundsContent">
                   <div className="listsContent">
                     <ul>
-                      <li>
-                        Cad fest event will have two rounds. In the first round,
-                        the participants will be given a 2D diagram and the best
-                        15 submissions will be qualified for the final round.
-                      </li>
-                      <li>
-                        In the second round, the participants will be given two
-                        views of any diagram, and the participant will have to
-                        draft the 3D sketch of the particular diagram. The top
-                        two submissions of the final round will be awarded.
-                      </li>
-                      <li>
-                        If the number of participants is large, a screening
-                        round before the first round will be held. The screening
-                        round is a quiz competition based on the basics of
-                        engineering drafting.
-                      </li>
-                      <li>
-                        Link for the competition will be sent 15 minutes prior
-                        to the competition in the WhatsApp group. The accuracy
-                        and on-time submission of the drawings will be taken
-                        into account for assessment. The submissions must be in
-                        the format of part file only.
-                      </li>
+                      <ul>
+                        <ul>
+                          <li>
+                            The Cad Fest event will consist of two rounds. The
+                            first round will be held online, where participants
+                            will be given a 2D diagram to draft. The best 15
+                            submissions from this round will qualify for the
+                            final round.
+                          </li>
+                          <li>
+                            In the second (final) round, participants will be
+                            required to attend the event in person. They will be
+                            given a topic on the spot and must they must draft a
+                            3D sketch of the particular diagram using CAD
+                            software's. This round will be proctored on-site,
+                            and the top two submissions will be awarded.
+                          </li>
+                          <li>
+                            The first-round online competition will be held on
+                            16.10.2024 at 6:00 PM, and the link for that will be
+                            shared in the event's WhatsApp group. The
+                            submissions for this round must be in the format of
+                            part files only, and both accuracy and timely
+                            submission will be assessed.
+                          </li>
+                        </ul>
+                      </ul>
                     </ul>
                   </div>
                 </div>
                 <h3 className="roundsTitle">Date & Timings</h3>
                 <div className="roundsContent">
-                  <p>Round 1: Commences on 13.09.2021 @ 12:00 PM</p>
-                  <p>Round 2: Commences on 14.09.2021 @ 10:00 AM</p>
-                  <p>Round 3: Commences on 15.09.2021 @ 09:00 AM</p>
+                  <p>Round 1: Commences on 16.10.2024 @ 7:00 PM</p>
+                  <p>Round 2: Commences on 18.10.2024 @ 10:00 AM</p>
                 </div>
                 <p className="roundsContent" style={{ marginLeft: 0 }}>
-                  Last date for registration is 10.09.2021 within 6:00 PM
+                  Last date for registration is 15.10.2024 within 6:00 PM
                 </p>
               </div>
             </div>
@@ -88,13 +90,16 @@ const Cadfest = () => {
           <div className="contacts">
             <h2 className="contactsTitle">CONTACTS</h2>
             <p className="contactsContent">
-              SOWMIYA DEVI S: <a href="tel:9597638372">9597638372</a>
+              Deepak. A : <a href="tel:8220337154">8220337154</a>
             </p>
             <p className="contactsContent">
-              ASIF MUHAMMED A: <a href="tel:9786721143">9786721143</a>
+              Anishyanandh : <a href="tel:8220751069">8220751069</a>
             </p>
             <p className="contactsContent">
-              KESHAV B: <a href="tel:8754275064">8754275064</a>
+              Asmitaa S : <a href="tel:7418399003">7418399003</a>
+            </p>
+            <p className="contactsContent">
+              Naveen Ragavendra B : <a href="tel:7708697213">7708697213</a>
             </p>
           </div>
         </div>

@@ -36,19 +36,22 @@ const Fotohunt = () => {
                   </div>
                   <h3 className="roundsTitle">Date & Timings</h3>
                   <div className="roundsContent">
-                    <p>Submission within 11:59 PM on 13.09.2021</p>
+                    <p>Submission within 11:59 AM on 18.10.2024</p>
                   </div>
-                  <p className="roundsContent" style={{ marginLeft: 0 }}>Last date for registration is 10.09.2021 within 6:00 PM</p>
+                  <p className="roundsContent" style={{ marginLeft: 0 }}>Last date for registration is 15.10.2024 within 6:00 PM</p>
                 </div>
               </div>
             </div>
             <div className="contacts">
               <h2 className="contactsTitle">CONTACTS</h2>
               <p className="contactsContent">
-                MIDUN V : <a href="tel:8870049196">8870049196</a>
+                AMANULLA Z: <a href="tel:8637426850">8637426850</a>
               </p>
               <p className="contactsContent">
-                KISHORE P : <a href="tel:8088020141">8088020141</a>
+                KANDHAROOPAN J: <a href="tel:9629059976">9629059976</a>
+              </p>
+              <p className="contactsContent">
+                HARSHITHA C : <a href="tel:9566478055">9566478055</a>
               </p>
             </div>
           </div>

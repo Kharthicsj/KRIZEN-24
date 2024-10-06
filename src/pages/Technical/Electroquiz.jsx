@@ -83,14 +83,14 @@ const Electroquiz = () => {
                 </p>
                 <h3 className="roundsTitle">Date & Timings</h3>
                 <div className="roundsContent">
-                  <p>Round 1: Commences on 14.09.2021 @ 03:00 PM</p>
-                  <p>Round 2: Commences on 15.09.2021 @ 01:30 PM</p>
+                  <p>Round 1: Commences on 16.10.2024 @ 07:00 PM</p>
+                  <p>Round 2: Commences on 18.10.2024 @ 10.00 AM</p>
                 </div>
                 <p
                   className="roundsContent"
                   style={{ marginLeft: "0 !important" }}
                 >
-                  Last date for registration is 10.09.2021 within 6:00 PM
+                  Last date for registration is 15.10.2024 within 6:00 PM
                 </p>
               </div>
             </div>

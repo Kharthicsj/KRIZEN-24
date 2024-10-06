@@ -64,10 +64,11 @@ const NarrativePulse = () => {
                   </div>
                   <h3 className="roundsTitle">Date & Timings</h3>
                   <div className="roundsContent">
-                    <p>Submission within 11:59 PM on 13.09.2021</p>
+                    <p>Round 1 - Submission within 11:59 PM on 16.10.2024</p>
+                    <p>Round 2 - Held on 18.10.2024</p>
                   </div>
                   <p className="roundsContent" style={{ marginLeft: 0 }}>
-                    Last date for registration is 10.09.2021 within 6:00 PM
+                    Last date for registration is 15.10.2024 within 6:00 PM
                   </p>
                 </div>
               </div>
@@ -75,10 +76,16 @@ const NarrativePulse = () => {
             <div className="contacts">
               <h2 className="contactsTitle">CONTACTS</h2>
               <p className="contactsContent">
-                MIDUN V : <a href="tel:8870049196">8870049196</a>
+              KarthickRaja S : <a href="tel:7010639597">7010639597</a>
               </p>
               <p className="contactsContent">
-                KISHORE P : <a href="tel:8088020141">8088020141</a>
+              santhoshkumar E : <a href="tel:9047811140">9047811140</a>
+              </p>
+              <p className="contactsContent">
+              Varun S : <a href="tel:9842224919">9842224919</a>
+              </p>
+              <p className="contactsContent">
+              Santhosh Kumar R : <a href="tel:9344023613">9344023613</a>
               </p>
             </div>
           </div>

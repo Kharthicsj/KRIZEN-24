@@ -72,23 +72,22 @@ const Paperpresentation = () => {
                 <h3 className="roundsTitle">Round 2</h3>
                 <div className="roundsContent">
                   <p>
-                    In the second round, the selected teams will be gathered in
-                    a Google Meet where the participants are invited to present
-                    their papers. The presentation should not exceed 5 mins. The
-                    papers should also be submitted via Google Forms that will
-                    be provided at the time of presentation. The judges will
-                    analyze the technical content, quality of paper, way of
-                    expression. Based on the scores from judges the top two
-                    papers will be awarded.
+                    In the second round, the selected teams will gather in
+                    person to present their papers. Each team will have 5
+                    minutes to deliver their presentation. Participants will
+                    also submit their papers on-site. Judges will assess the
+                    technical content, quality of the paper, and the clarity of
+                    expression. Based on the judges' scores, the top two papers
+                    will be awarded.
                   </p>
                 </div>
                 <h3 className="roundsTitle">Date & Timings</h3>
                 <div className="roundsContent">
-                  <p>Round 1: Submission within 6:00 PM on 07.09.2021</p>
-                  <p>Round 2: Commences on 15.09.2021 @ 11:00 AM</p>
+                  <p>Round 1: Submission within 6:00 PM on 16.10.2023</p>
+                  <p>Round 2: Commences on 18.10.2024 @ 11:00 AM</p>
                 </div>
                 <p className="roundsContent" style={{ marginLeft: 0 }}>
-                  Last date for registration is 07.09.2021 within 6:00 PM
+                  Last date for registration is 15.10.2024 within 6:00 PM
                 </p>
               </div>
             </div>
@@ -96,12 +95,17 @@ const Paperpresentation = () => {
           <div className="contacts">
             <h2 className="contactsTitle">CONTACTS</h2>
             <p className="contactsContent">
-              KAVIN KUMAR R: <a href="tel:6381368575">6381368575</a>
+              Aarthi.A : <a href="tel:7338885701">7338885701</a>
             </p>
             <p className="contactsContent">
-              ASIF MUHAMMED A: <a href="tel:9786721143">9786721143</a>
+              Mohammed Suhail M K : <a href="tel:7667664600">7667664600</a>
             </p>
-            <p className="contactsContent">KESHAV B: 8754275064</p>
+            <p className="contactsContent">
+              Eric Allan S : <a href="tel:9385524469">9385524469</a>
+            </p>
+            <p className="contactsContent">
+              Amrish.S : <a href="tel:9487628551">9487628551</a>
+            </p>
           </div>
         </div>
       </div>

@@ -56,12 +56,10 @@ const Oldtownroad = () => {
                 </div>
                 <h3 className="roundsTitle">Date & Timings</h3>
                 <div className="roundsContent">
-                  <p>Round 1: Commences on 13.09.2021 @ 12:00 PM</p>
-                  <p>Round 2: Commences on 14.09.2021 @ 10:00 AM</p>
-                  <p>Round 3: Commences on 15.09.2021 @ 09:00 AM</p>
+                  <p>Round 1: Commences on 18.10.2024 @ 10:00 AM</p>
                 </div>
                 <p className="roundsContent" style={{ marginLeft: 0 }}>
-                  Last date for registration is 10.09.2021 within 6:00 PM
+                  Last date for registration is 15.10.2024 within 6:00 PM
                 </p>
               </div>
             </div>
@@ -69,13 +67,16 @@ const Oldtownroad = () => {
           <div className="contacts">
             <h2 className="contactsTitle">CONTACTS</h2>
             <p className="contactsContent">
-              SOWMIYA DEVI S: <a href="tel:9597638372">9597638372</a>
+              Prajesh Rodrico A : <a href="tel:9080001557">9080001557</a>
             </p>
             <p className="contactsContent">
-              ASIF MUHAMMED A: <a href="tel:9786721143">9786721143</a>
+              Sandhya G : <a href="tel:9363458890">9363458890</a>
             </p>
             <p className="contactsContent">
-              KESHAV B: <a href="tel:8754275064">8754275064</a>
+              Shtiyash S : <a href="tel:9442415980">9442415980</a>
+            </p>
+            <p className="contactsContent">
+              Madhesh B : <a href="tel:9042023001">9042023001</a>
             </p>
           </div>
         </div>

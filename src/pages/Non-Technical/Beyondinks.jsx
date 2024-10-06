@@ -58,21 +58,22 @@ const Beyondinks = () => {
                   <p>
                     The students selected for the final round will be given a
                     participation certificate and will be given a theme. The
-                    theme will be announced prior, and the participants should
-                    submit their works. In case of exceeding the time, the
-                    participants' responses will not be considered. The artworks
-                    with more detail, choice of perception, and how close it is
-                    to the theme will be considered as the winners. The best two
-                    participants will be recognized.
+                    theme will be announced during the event time, and the
+                    participants should submit their works. In case of exceeding
+                    the time, the participants' responses will not be
+                    considered. The artworks with more detail, choice of
+                    perception, and how close it is to the theme will be
+                    considered as the winners. The best two participants will be
+                    recognized.
                   </p>
                 </div>
                 <h3 className="roundsTitle">Date & Timings</h3>
                 <div className="roundsContent">
-                  <p>Round 1 : Submission within 10:00 AM on 11.09.2021</p>
-                  <p>Round 2 : Submission within 11:59 PM on 13.09.2021</p>
+                  <p>Round 1 : Submission within 10:00 AM on 17.10.2024</p>
+                  <p>Round 2 : Submission within 11:59 PM on 18.10.2024</p>
                 </div>
                 <p className="roundsContent" style={{ marginLeft: 0 }}>
-                  Last date for registration is 10.09.2021 within 6:00 PM
+                  Last date for registration is 15.10.2024 within 6:00 PM
                 </p>
               </div>
             </div>
@@ -80,10 +81,16 @@ const Beyondinks = () => {
           <div className="contacts">
             <h2 className="contactsTitle">CONTACTS</h2>
             <p className="contactsContent">
-              ADHIRA M : <a href="tel:6369217475">6369217475</a>
+              Sibisivanezhil B : <a href="tel:9952717617">9952717617</a>
             </p>
             <p className="contactsContent">
-              KISHORE P : <a href="tel:8088020141">8088020141</a>
+              Charanjit M : <a href="tel:9364519006">9364519006</a>
+            </p>
+            <p className="contactsContent">
+              Krittika S M : <a href="tel:9976145070">9976145070</a>
+            </p>
+            <p className="contactsContent">
+              Benecia B : <a href="tel:7397576369">7397576369</a>
             </p>
           </div>
         </div>

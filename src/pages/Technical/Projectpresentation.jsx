@@ -70,27 +70,26 @@ const ProjectPresentation = () => {
                 <h3 className="roundsTitle">Round 2</h3>
                 <div className="roundsContent">
                   <p>
-                    In the second round(final round), the selected teams will be
-                    gathered in GMeet where they will present their projects,
-                    with added videos. The total presentation should be no more
-                    than 5 mins. The project videos and presentation slides
-                    should also be submitted via google forms that will be
-                    provided at the time of presentation. The judges will
-                    analyze the technical content, way of expression, ideology,
-                    and scope of their projects. Based on the scores from the
-                    judges the top two projects will be awarded.
+                    In the second round (final round), the selected teams will
+                    gather in person to present their projects, including
+                    accompanying videos. The total presentation should be no
+                    more than 5 minutes. Project videos and presentation slides
+                    should be submitted on-site. The judges will evaluate the
+                    technical content, presentation skills, ideology, and the
+                    scope of the projects. Based on the judges' scores, the top
+                    two projects will be awarded.
                   </p>
                 </div>
                 <h3 className="roundsTitle">Date & Timings</h3>
                 <div className="roundsContent">
-                  <p>Round 1 : Submission within 6:00 PM on 07.09.2021</p>
-                  <p>Round 2 : Commences on 15.09.2021 @ 11:00 AM</p>
+                  <p>Round 1 : Submission within 6:00 PM on 16.10.2024</p>
+                  <p>Round 2 : Commences on 18.10.2024 @ 11:00 AM</p>
                 </div>
                 <p
                   className="roundsContent"
                   style={{ marginLeft: "0 !important" }}
                 >
-                  Last date for registration is 07.09.2021 within 6:00 PM
+                  Last date for registration is 15.10.2024 within 6:00 PM
                 </p>
               </div>
             </div>
@@ -98,10 +97,16 @@ const ProjectPresentation = () => {
           <div className="contacts">
             <h2 className="contactsTitle">CONTACTS</h2>
             <p className="contactsContent">
-              KESHAV B : <a href="tel:8754275064">8754275064</a>
+              sharukeshan s : <a href="tel:6382172515">6382172515</a>
             </p>
             <p className="contactsContent">
-              ASIF MUHAMMED A : <a href="tel:9786721143">9786721143</a>
+              Sarath NS : <a href="tel:6385800977">6385800977</a>
+            </p>
+            <p className="contactsContent">
+              Laura Judith D : <a href="tel:9500361131">9500361131</a>
+            </p>
+            <p className="contactsContent">
+              Aswaketh P R E : <a href="tel:7603848850">7603848850</a>
             </p>
           </div>
         </div>

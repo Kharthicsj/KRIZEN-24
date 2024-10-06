@@ -147,10 +147,16 @@ const Workshop = () => {
             <div className="contacts">
               <h2 className="contactsTitle">CONTACTS</h2>
               <p className="contactsContent">
-                JAHATH PRANAV R: <a href="tel:9150570384">9150570384</a>
+              Ganesh S : <a href="tel:6374557399">6374557399</a>
               </p>
               <p className="contactsContent">
-                ARVIND M: <a href="tel:7904452430">7904452430</a>
+              Varun S : <a href="tel:9597196167">9597196167</a>
+              </p>
+              <p className="contactsContent">
+              Vignesh k : <a href="tel:9943224606">9943224606</a>
+              </p>
+              <p className="contactsContent">
+              AATHYANDHAPRABHU P : <a href="tel:8668134412">8668134412</a>
               </p>
             </div>
           </div>
