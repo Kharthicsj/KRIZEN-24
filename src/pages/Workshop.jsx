@@ -23,7 +23,7 @@ const Workshop = () => {
             <div className="title">
               <div className="heading">3D PRINTING</div>
               <div className="main_links">
-                <button className="register">Registration Closed</button>
+                <button className="register">Registration open's soon</button>
                 <div className="register brochure">
                   <a
                     href="../../resources/Brochure/3DPrinting Brochure.pdf"
@@ -86,7 +86,7 @@ const Workshop = () => {
             <div className="title">
               <div className="heading">INTERNET OF THINGS</div>
               <div className="main_links">
-                <button className="register">Registration Closed</button>
+                <button className="register">Registration open's soon</button>
                 <div className="register brochure">
                   <a
                     href="../../resources/Brochure/IoT Brochure.pdf"

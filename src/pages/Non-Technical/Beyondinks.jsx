@@ -15,7 +15,7 @@ const Beyondinks = () => {
             <div className="heading">BEYOND INKS</div>
             <div className="main_links">
               <a className="register" href="#Registration-Closed">
-                Registration closed
+                Registration open's soon
               </a>
               <div className="register brochure">
                 <a

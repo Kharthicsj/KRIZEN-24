@@ -15,7 +15,7 @@ const Circuittrack = () => {
             <div className="heading">CIRCUIT TRACK</div>
             <div className="main_links">
               <a className="register" href="#registration-closed">
-                Registration closed
+                Registration open's soon
               </a>
               <div className="register brochure">
                 <a

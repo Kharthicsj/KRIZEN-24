@@ -14,7 +14,7 @@ const NarrativePulse = () => {
             <div className="title">
               <div className="heading">Narrative Pulse</div>
               <div className="main_links">
-                <a className="register" href="#Registration-Closed">Registration closed</a>
+                <a className="register" href="#Registration-Closed">Registration open's soon</a>
                 <div className="register brochure">
                   <a
                     href="/resources/Brochure/PaperPresentation Brochure.pdf"

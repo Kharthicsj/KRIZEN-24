@@ -15,7 +15,7 @@ const Cadfest = () => {
             <div className="heading">CADFEST</div>
             <div className="main_links">
               <a className="register" href="#registation-closed">
-                Registration closed
+                Registration open's soon
               </a>
               <div className="register brochure">
                 <a

@@ -15,7 +15,7 @@ const WebDevelopment = () => {
             <div className="heading">WEB/APP DEVELOPMENT</div>
             <div className="main_links">
               <a href="#registration-closed" className="register">
-                Registration Closed
+                Registration open's soon
               </a>
               <div className="register brochure">
                 <a href={"#brochure"} download="Paper Presentation Brochure">

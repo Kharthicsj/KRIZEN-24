@@ -62,7 +62,7 @@ const Gallery = () => {
     {
       name: 'Clifford Wesley C',
       role: 'Cultural Event Co-ordinator',
-      imgSrc: require('../Assets/images/clifford.jpeg'),
+      imgSrc: require('../Assets/images/Clifford_Wesley.jpeg'),
       email: '727722eumt027@skcet.ac.in',
       linkedin: 'https://www.linkedin.com/in/cliffordwesley',
       instagram: 'https://www.instagram.com/itsmecliffwesley'

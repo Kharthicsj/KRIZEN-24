@@ -14,7 +14,7 @@ const Fotohunt = () => {
             <div className="title">
               <div className="heading">FOTO HUNT</div>
               <div className="main_links">
-                <a className="register" href="#Registration-Closed">Registration closed</a>
+                <a className="register" href="#Registration-Closed">Registration open's soon</a>
                 <div className="register brochure">
                   <a href="/resources/Brochure/PaperPresentation Brochure.pdf" download="Paper Presentation Brochure">Brochure</a>
                   <img className="download" src={DownloadLogo} alt="download" />

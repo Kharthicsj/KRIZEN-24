@@ -15,7 +15,7 @@ const Oldtownroad = () => {
             <div className="heading">OLD TOWN ROAD</div>
             <div className="main_links">
               <a className="register" href="#registation-closed">
-                Registration closed
+                Registration open's soon
               </a>
               <div className="register brochure">
                 <a

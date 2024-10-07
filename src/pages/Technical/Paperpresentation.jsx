@@ -15,7 +15,7 @@ const Paperpresentation = () => {
             <div className="heading">PAPER PRESENTATION</div>
             <div className="main_links">
               <a className="register" href="#registration-closed">
-                Registration closed
+                Registration open's soon
               </a>
               <div className="register brochure">
                 <a
