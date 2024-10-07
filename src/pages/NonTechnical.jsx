@@ -33,7 +33,7 @@ const NonTechnical = () => {
                 non-grammatical way. This competition tests the narrative,
                 artistic, persuasive, and creative abilities of participants.
               </p>
-              <Link to="/beyond-inks">Explore</Link> 
+              <Link to="/beyondinks">Explore</Link> 
             </div>
           </div>
 

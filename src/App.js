@@ -32,7 +32,7 @@ function App() {
         <Route path='/electrio-quiz' element={<Electroquiz />}/>
         <Route path='/circuit-track' element={<Circuittrack /> }/>
         <Route path='/cadfest' element={<Cadfest />} />
-        <Route path='old-town-road' element={<Oldtownroad />} />
+        <Route path='/old-town-road' element={<Oldtownroad />} />
         {/* Non Technical Event's Path */}
         <Route path='/beyondinks' element={<Beyondinks />}/>
         <Route path='/foto-hunt' element={<Fotohunt />}/>
