@@ -31,11 +31,10 @@ const Circuittrack = () => {
           <div className="about">
             <h2 className="aboutTitle">ABOUT</h2>
             <p className="aboutContent">
-              This contest is all about testing the Participant's problem
-              solving ability in the field of electronics. This contest is
-              surely going to challenge the contestant's error identification
-              and rectification skills. Be the fastest and the smartest
-              rectifier to shine and grab your place!
+              Prepare to engineer and operate a line-following mobile robot that
+              expertly navigates along a designated path. Showcase your
+              technical skills and precision as you race to be the first to
+              cross the finish line!
             </p>
           </div>
           <div className="details">
