@@ -29,11 +29,11 @@ const Footer = () => {
                 <Link to="/beyondinks">BeyondInks</Link>
                 <Link to="/narrative-pulse">Narrative Pulse</Link>
               </div>
-              <div className="workshop__links">
+              {/* <div className="workshop__links">
                 <h3 className="link__title">Workshop</h3>
-                {/* <Link to="/3d-printing">3D Printing</Link>
-                <Link to="/iot">IOT</Link> */}
-              </div>
+                <Link to="/3d-printing">3D Printing</Link>
+                <Link to="/iot">IOT</Link>
+              </div> */}
             </div>
           </div>
           <div className="footer__contact">

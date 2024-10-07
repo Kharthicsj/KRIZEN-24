@@ -42,9 +42,9 @@ const Header = () => {
             <Link to="/narrative-pulse">Narrative Pulse</Link>
           </div>
         </div>
-        <div className="nav__item">
+        {/* <div className="nav__item">
           <Link to="/workshop">Workshop</Link>
-        </div>
+        </div> */}
         <div className="nav__item">
           <Link to="/gallery">Gallery</Link>
         </div>
@@ -58,7 +58,7 @@ const Header = () => {
             <Link to="/">Home</Link>
             <Link to="/technical">Technical</Link>
             <Link to="/non-technical">Non-Technical</Link>
-            <Link to="/workshop">Workshop</Link>
+            {/* <Link to="/workshop">Workshop</Link> */}
             <Link to="/gallery">Gallery</Link>
           </div>
         </div>

@@ -99,7 +99,7 @@ const Circuittrack = () => {
               Venkatesh R : <a href="tel:8760724575">8760724575</a>
             </p>
             <p className="contactsContent">
-              Thamaraiselvi S : <a href="tel:8015644159">8015644159</a>
+              ERIC ALLAN S : <a href="tel:9385524469">9385524469</a>
             </p>
             <p className="contactsContent">
               Girithar Viswanath : <a href="tel:9080492286">9080492286</a>

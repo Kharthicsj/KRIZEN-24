@@ -70,13 +70,13 @@ const Oldtownroad = () => {
               Prajesh Rodrico A : <a href="tel:9080001557">9080001557</a>
             </p>
             <p className="contactsContent">
-              Sandhya G : <a href="tel:9363458890">9363458890</a>
+            Thamaraiselvi S : <a href="tel:8015644159">8015644159</a>
             </p>
             <p className="contactsContent">
-              Shtiyash S : <a href="tel:9442415980">9442415980</a>
+            santhoshkumar E : <a href="tel:9047811140">9047811140</a>
             </p>
             <p className="contactsContent">
-              Madhesh B : <a href="tel:9042023001">9042023001</a>
+            AATHYANDHAPRABHU P : <a href="tel:8668134412">8668134412</a>
             </p>
           </div>
         </div>

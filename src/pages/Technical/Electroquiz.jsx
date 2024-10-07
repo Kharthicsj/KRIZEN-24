@@ -98,13 +98,13 @@ const Electroquiz = () => {
           <div className="contacts">
             <h2 className="contactsTitle">CONTACTS</h2>
             <p className="contactsContent">
-              HARIHARAN S: <a href="tel:9087234333">9087234333</a>
+              Sarath NS : <a href="tel:6385800977">6385800977</a>
             </p>
             <p className="contactsContent">
-              ASIF MUHAMMED A: <a href="tel:9786721143">9786721143</a>
+              Laura Judith D : <a href="tel:9500361131">9500361131</a>
             </p>
             <p className="contactsContent">
-              KESHAV B: <a href="tel:8754275064">8754275064</a>
+              P S NIKETH : <a href="tel:7708850631">7708850631</a>
             </p>
           </div>
         </div>

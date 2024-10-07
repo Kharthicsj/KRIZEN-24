@@ -3,7 +3,7 @@ import "../style/events.css";
 import LandingVdo from "../Assets/images/WORKSHOP.mp4";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-import downloadIcon from '../Assets/images/download.png';
+import downloadIcon from "../Assets/images/download.png";
 
 const Workshop = () => {
   return (
@@ -31,11 +31,7 @@ const Workshop = () => {
                   >
                     Brochure
                   </a>
-                  <img
-                    className="download"
-                    src={downloadIcon}
-                    alt="download"
-                  />
+                  <img className="download" src={downloadIcon} alt="download" />
                 </div>
               </div>
             </div>
@@ -98,11 +94,7 @@ const Workshop = () => {
                   >
                     Brochure
                   </a>
-                  <img
-                    className="download"
-                    src={downloadIcon}
-                    alt="download"
-                  />
+                  <img className="download" src={downloadIcon} alt="download" />
                 </div>
               </div>
             </div>
@@ -147,16 +139,16 @@ const Workshop = () => {
             <div className="contacts">
               <h2 className="contactsTitle">CONTACTS</h2>
               <p className="contactsContent">
-              Ganesh S : <a href="tel:6374557399">6374557399</a>
+                Ganesh S : <a href="tel:6374557399">6374557399</a>
               </p>
               <p className="contactsContent">
-              Varun S : <a href="tel:9597196167">9597196167</a>
+                Harshitha C : <a href="tel:9566478055">9566478055</a>
               </p>
               <p className="contactsContent">
-              Vignesh k : <a href="tel:9943224606">9943224606</a>
+                Vignesh k : <a href="tel:9943224606">9943224606</a>
               </p>
               <p className="contactsContent">
-              AATHYANDHAPRABHU P : <a href="tel:8668134412">8668134412</a>
+                Madhesh B : <a href="tel:9042023001">9042023001</a>
               </p>
             </div>
           </div>

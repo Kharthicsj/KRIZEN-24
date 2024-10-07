@@ -87,7 +87,7 @@ const Beyondinks = () => {
               Charanjit M : <a href="tel:9364519006">9364519006</a>
             </p>
             <p className="contactsContent">
-              Krittika S M : <a href="tel:9976145070">9976145070</a>
+            Anjanadevi.S : <a href="tel:9384788702">9384788702</a>
             </p>
             <p className="contactsContent">
               Benecia B : <a href="tel:7397576369">7397576369</a>

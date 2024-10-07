@@ -95,13 +95,13 @@ const Paperpresentation = () => {
           <div className="contacts">
             <h2 className="contactsTitle">CONTACTS</h2>
             <p className="contactsContent">
-              Aarthi.A : <a href="tel:7338885701">7338885701</a>
+            KARTHIKEYAN P : <a href="tel:9080719270">9080719270</a>
             </p>
             <p className="contactsContent">
-              Mohammed Suhail M K : <a href="tel:7667664600">7667664600</a>
+            Varun S : <a href="tel:9842224919">9842224919</a>
             </p>
             <p className="contactsContent">
-              Eric Allan S : <a href="tel:9385524469">9385524469</a>
+            Sandhya G : <a href="tel:9363458890">9363458890</a>
             </p>
             <p className="contactsContent">
               Amrish.S : <a href="tel:9487628551">9487628551</a>

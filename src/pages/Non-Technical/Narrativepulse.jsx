@@ -79,7 +79,7 @@ const NarrativePulse = () => {
               KarthickRaja S : <a href="tel:7010639597">7010639597</a>
               </p>
               <p className="contactsContent">
-              santhoshkumar E : <a href="tel:9047811140">9047811140</a>
+              Aarthi.A : <a href="tel:7338885701">7338885701</a>
               </p>
               <p className="contactsContent">
               Varun S : <a href="tel:9842224919">9842224919</a>

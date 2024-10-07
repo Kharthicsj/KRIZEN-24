@@ -97,13 +97,13 @@ const ProjectPresentation = () => {
           <div className="contacts">
             <h2 className="contactsTitle">CONTACTS</h2>
             <p className="contactsContent">
-              sharukeshan s : <a href="tel:6382172515">6382172515</a>
+            Sai Mahima : <a href="tel:7200862958">7200862958</a>
             </p>
             <p className="contactsContent">
-              Sarath NS : <a href="tel:6385800977">6385800977</a>
+            Hari Yowvana Maruth B : <a href="tel:6369883639">6369883639</a>
             </p>
             <p className="contactsContent">
-              Laura Judith D : <a href="tel:9500361131">9500361131</a>
+            Vikas K : <a href="tel:9342237502">9342237502</a>
             </p>
             <p className="contactsContent">
               Aswaketh P R E : <a href="tel:7603848850">7603848850</a>

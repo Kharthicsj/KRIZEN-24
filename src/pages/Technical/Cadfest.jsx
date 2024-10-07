@@ -96,7 +96,7 @@ const Cadfest = () => {
               Anishyanandh : <a href="tel:8220751069">8220751069</a>
             </p>
             <p className="contactsContent">
-              Asmitaa S : <a href="tel:7418399003">7418399003</a>
+              Krittika S M : <a href="tel:9976145070">9976145070</a>
             </p>
             <p className="contactsContent">
               Naveen Ragavendra B : <a href="tel:7708697213">7708697213</a>

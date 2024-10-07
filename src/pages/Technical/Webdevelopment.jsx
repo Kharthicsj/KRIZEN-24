@@ -117,13 +117,13 @@ const WebDevelopment = () => {
           <div className="contacts">
             <h2 className="contactsTitle">CONTACTS</h2>
             <p className="contactsContent">
-              Sai Mahima : <a href="tel:7200862958">7200862958</a>
+              Mohammed Suhail M K : <a href="tel:7667664600">7667664600</a>
             </p>
             <p className="contactsContent">
               Sathiyan A : <a href="tel:7708095780">7708095780</a>
             </p>
             <p className="contactsContent">
-              KARTHIKEYAN P : <a href="tel:9080719270">9080719270</a>
+              sharukeshan s : <a href="tel:6382172515">96382172515</a>
             </p>
             <p className="contactsContent">
               Raghul S : <a href="tel:6383613348">6383613348</a>
