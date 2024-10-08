@@ -14,8 +14,11 @@ const Paperpresentation = () => {
           <div className="title">
             <div className="heading">PAPER PRESENTATION</div>
             <div className="main_links">
-              <a className="register" href="#registration-closed">
-                Registration open's soon
+              <a
+                className="register"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSeX2DpxP6Cksxq5dlu-zy20an9sftIx-qQElmALojFIHjfNzg/viewform?usp=sf_link"
+              >
+                Register
               </a>
               <div className="register brochure">
                 <a
@@ -81,6 +84,10 @@ const Paperpresentation = () => {
                     will be awarded.
                   </p>
                 </div>
+                <h3 className="roundsTitle">WhtasApp Group Link</h3>
+                <div className="roundsContent">
+                    <a href="https://chat.whatsapp.com/KOA2oPhzrZy1gBMvgF9l8M">https://chat.whatsapp.com/KOA2oPhzrZy1gBMvgF9l8M</a>
+                </div>
                 <h3 className="roundsTitle">Date & Timings</h3>
                 <div className="roundsContent">
                   <p>Round 1: Submission within 6:00 PM on 16.10.2023</p>
@@ -95,13 +102,13 @@ const Paperpresentation = () => {
           <div className="contacts">
             <h2 className="contactsTitle">CONTACTS</h2>
             <p className="contactsContent">
-            KARTHIKEYAN P : <a href="tel:9080719270">9080719270</a>
+              KARTHIKEYAN P : <a href="tel:9080719270">9080719270</a>
             </p>
             <p className="contactsContent">
-            Varun S : <a href="tel:9842224919">9842224919</a>
+              Varun S : <a href="tel:9842224919">9842224919</a>
             </p>
             <p className="contactsContent">
-            Sandhya G : <a href="tel:9363458890">9363458890</a>
+              Sandhya G : <a href="tel:9363458890">9363458890</a>
             </p>
             <p className="contactsContent">
               Amrish.S : <a href="tel:9487628551">9487628551</a>

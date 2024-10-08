@@ -65,8 +65,8 @@ const Footer = () => {
           </a>
           <p>Sri Krishna College of Engineering and Technology</p>
           <p>(An Autonomous Institution, Accredited by NAAC with 'A++' Grade and NBA)</p>
-          <p>Kuniamuthur, Coimbatore-641008</p>
           <p>Department of Mechatronics Engineering</p>
+          <p>Kuniamuthur, Coimbatore-641008</p>
         </div>
       </div>
       <div className="footer__phone">
@@ -101,8 +101,8 @@ const Footer = () => {
             </a>
             <p>Sri Krishna College of Engineering and Technology</p>
             <p>(An Autonomous Institution, Accredited by NAAC with 'A++' Grade and NBA)</p>
-            <p>Kuniamuthur, Coimbatore-641008</p>
             <p>Department of Mechatronics Engineering</p>
+            <p>Kuniamuthur, Coimbatore-641008</p>
           </div>
         </div>
       </div>
