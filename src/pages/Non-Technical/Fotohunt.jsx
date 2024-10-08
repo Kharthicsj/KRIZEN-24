@@ -91,7 +91,7 @@ const Fotohunt = () => {
               KANDHAROOPAN J: <a href="tel:9629059976">9629059976</a>
             </p>
             <p className="contactsContent">
-              Asmitaa S : <a href="tel:7418399003">7418399003</a>
+              Anjanadevi.S : <a href="tel:9384788702">9384788702</a>
             </p>
           </div>
         </div>

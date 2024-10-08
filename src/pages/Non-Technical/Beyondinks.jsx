@@ -14,7 +14,10 @@ const Beyondinks = () => {
           <div className="title">
             <div className="heading">BEYOND INKS</div>
             <div className="main_links">
-              <a className="register" href="https://docs.google.com/forms/d/e/1FAIpQLScSdXfeflwpnrWJ9odOiCle45-qjEvXC_CycWB1YDZPK-WAGw/viewform?usp=pp_url">
+              <a
+                className="register"
+                href="https://docs.google.com/forms/d/e/1FAIpQLScSdXfeflwpnrWJ9odOiCle45-qjEvXC_CycWB1YDZPK-WAGw/viewform?usp=pp_url"
+              >
                 Register
               </a>
               <div className="register brochure">
@@ -69,7 +72,9 @@ const Beyondinks = () => {
                 </div>
                 <h3 className="roundsTitle">WhtasApp Group Link</h3>
                 <div className="roundsContent">
-                    <a href="https://chat.whatsapp.com/F4KxK9R8mZF743TM2QI6IY">https://chat.whatsapp.com/F4KxK9R8mZF743TM2QI6IY</a>
+                  <a href="https://chat.whatsapp.com/F4KxK9R8mZF743TM2QI6IY">
+                    https://chat.whatsapp.com/F4KxK9R8mZF743TM2QI6IY
+                  </a>
                 </div>
                 <h3 className="roundsTitle">Date & Timings</h3>
                 <div className="roundsContent">
@@ -91,7 +96,7 @@ const Beyondinks = () => {
               Charanjit M : <a href="tel:9364519006">9364519006</a>
             </p>
             <p className="contactsContent">
-            Anjanadevi.S : <a href="tel:9384788702">9384788702</a>
+              Asmitaa S : <a href="tel:7418399003">7418399003</a>
             </p>
             <p className="contactsContent">
               Benecia B : <a href="tel:7397576369">7397576369</a>
