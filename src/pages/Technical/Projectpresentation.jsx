@@ -13,8 +13,8 @@ const ProjectPresentation = () => {
           <div className="title">
             <div className="heading">PROJECT PRESENTATION</div>
             <div className="main_links">
-              <a className="register" href="#registration-closed">
-                Registration open's soon
+              <a className="register" href="https://docs.google.com/forms/d/e/1FAIpQLSdgAzVp0O2_0MQZJyZe6DdM_KsRKcHL3ph1I8rx2_RjqQ-znw/viewform?usp=pp_url">
+                Register
               </a>
               <div className="register brochure">
                 <a href={"#brochure"} download="Paper Presentation Brochure">
@@ -79,6 +79,10 @@ const ProjectPresentation = () => {
                     scope of the projects. Based on the judges' scores, the top
                     two projects will be awarded.
                   </p>
+                </div>
+                <h3 className="roundsTitle">WhtasApp Group Link</h3>
+                <div className="roundsContent">
+                    <a href="https://chat.whatsapp.com/ChtiNj973BI0zay3TAd8MC">https://chat.whatsapp.com/ChtiNj973BI0zay3TAd8MC</a>
                 </div>
                 <h3 className="roundsTitle">Date & Timings</h3>
                 <div className="roundsContent">

@@ -14,8 +14,8 @@ const Electroquiz = () => {
           <div className="title">
             <div className="heading">ELECTRIOQUIZ</div>
             <div className="main_links">
-              <a className="register" href="#registration-closed">
-                Registration open's soon
+              <a className="register" href="https://docs.google.com/forms/d/e/1FAIpQLScR63YqpbpOfQzZ9DIbkmGvybV_nL4ODO6gSsFVgxKdIMr4cw/viewform?usp=sf_link">
+                Register
               </a>
               <div className="register brochure">
                 <a
@@ -81,6 +81,10 @@ const Electroquiz = () => {
                   laptop or desktop. The question type will be both theoretical
                   as well as problematic.
                 </p>
+                <h3 className="roundsTitle">WhtasApp Group Link</h3>
+                <div className="roundsContent">
+                    <a href="https://chat.whatsapp.com/IUEDpKanxeRIDHAdie6VS0">https://chat.whatsapp.com/IUEDpKanxeRIDHAdie6VS0</a>
+                </div>
                 <h3 className="roundsTitle">Date & Timings</h3>
                 <div className="roundsContent">
                   <p>Round 1: Commences on 16.10.2024 @ 07:00 PM</p>

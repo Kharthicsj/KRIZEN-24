@@ -14,8 +14,8 @@ const Cadfest = () => {
           <div className="title">
             <div className="heading">CADFEST</div>
             <div className="main_links">
-              <a className="register" href="#registation-closed">
-                Registration open's soon
+              <a className="register" href="https://docs.google.com/forms/d/e/1FAIpQLSd58NVb3sjwI_yt4IYDHa-I_p_PiMwAAgLCgw5H-M3eGv7xKA/viewform?usp=sf_link">
+                Register
               </a>
               <div className="register brochure">
                 <a
@@ -75,6 +75,10 @@ const Cadfest = () => {
                       </ul>
                     </ul>
                   </div>
+                </div>
+                <h3 className="roundsTitle">WhtasApp Group Link</h3>
+                <div className="roundsContent">
+                    <a href="https://chat.whatsapp.com/LsEU7zFRk1mHu9Xilgrdh2">https://chat.whatsapp.com/LsEU7zFRk1mHu9Xilgrdh2</a>
                 </div>
                 <h3 className="roundsTitle">Date & Timings</h3>
                 <div className="roundsContent">

@@ -14,8 +14,8 @@ const WebDevelopment = () => {
           <div className="title">
             <div className="heading">WEB/APP DEVELOPMENT</div>
             <div className="main_links">
-              <a href="#registration-closed" className="register">
-                Registration open's soon
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSc6w__E1wwMYu3ZTHBsgegm8K2cX6x-KD4Ad0sCyHDqakkxDw/viewform?usp=sf_link" className="register">
+                Register
               </a>
               <div className="register brochure">
                 <a href={"#brochure"} download="Paper Presentation Brochure">
@@ -100,6 +100,10 @@ const WebDevelopment = () => {
                   <p style={{ marginBottom: "1rem" }}>
                     Topic Will be Given During the Event Time.
                   </p>
+                </div>
+                <h3 className="roundsTitle">WhtasApp Group Link</h3>
+                <div className="roundsContent">
+                    <a href="https://chat.whatsapp.com/FcflF8hLmlt89uIyQwVHV3">https://chat.whatsapp.com/FcflF8hLmlt89uIyQwVHV3</a>
                 </div>
                 <h3 className="roundsTitle">Date & Timings</h3>
                 <div className="roundsContent">

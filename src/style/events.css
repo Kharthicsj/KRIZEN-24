@@ -206,6 +206,7 @@
   @media only screen and (max-width: 1024px) {
     .main {
       padding: 8% 7%;
+      margin-top: 70px;
     }
     .title {
       -webkit-box-orient: vertical;

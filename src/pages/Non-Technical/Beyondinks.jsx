@@ -14,8 +14,8 @@ const Beyondinks = () => {
           <div className="title">
             <div className="heading">BEYOND INKS</div>
             <div className="main_links">
-              <a className="register" href="#Registration-Closed">
-                Registration open's soon
+              <a className="register" href="https://docs.google.com/forms/d/e/1FAIpQLScSdXfeflwpnrWJ9odOiCle45-qjEvXC_CycWB1YDZPK-WAGw/viewform?usp=pp_url">
+                Register
               </a>
               <div className="register brochure">
                 <a
@@ -66,6 +66,10 @@ const Beyondinks = () => {
                     considered as the winners. The best two participants will be
                     recognized.
                   </p>
+                </div>
+                <h3 className="roundsTitle">WhtasApp Group Link</h3>
+                <div className="roundsContent">
+                    <a href="https://chat.whatsapp.com/F4KxK9R8mZF743TM2QI6IY">https://chat.whatsapp.com/F4KxK9R8mZF743TM2QI6IY</a>
                 </div>
                 <h3 className="roundsTitle">Date & Timings</h3>
                 <div className="roundsContent">
