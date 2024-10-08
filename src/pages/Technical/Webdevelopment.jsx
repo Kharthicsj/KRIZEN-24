@@ -45,7 +45,7 @@ const WebDevelopment = () => {
                 <div className="roundsContent">
                   <p>
                     A specific topic will be provided to the participants on
-                    31st August 2021. Participants will have to build a Website
+                    18.10.2024. Participants will have to build a Website
                     or an application based on the theme provided. Participants
                     cannot build both. Two developers who prevail will be
                     awarded accordingly.
