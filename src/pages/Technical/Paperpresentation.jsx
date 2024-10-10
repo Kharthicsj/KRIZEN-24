@@ -43,6 +43,7 @@ const Paperpresentation = () => {
               knowledge towards technical aspects. A paper presentation is an
               idea by itself.
             </p>
+            <p className="aboutContent">Participants can form a team of two members and Individual Participant's are also Welcomed.</p>
           </div>
           <div className="details">
             <h2 className="detailsTitle">DETAILS</h2>
