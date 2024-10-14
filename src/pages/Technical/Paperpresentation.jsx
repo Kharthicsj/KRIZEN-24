@@ -91,7 +91,7 @@ const Paperpresentation = () => {
                 </div>
                 <h3 className="roundsTitle">Date & Timings</h3>
                 <div className="roundsContent">
-                  <p>Round 1: Commences on 18.10.2024 @ 10:00 AM</p>
+                  <p>Final Round: Commences on 18.10.2024 @ 10:00 AM</p>
                 </div>
                 <p className="roundsContent" style={{ marginLeft: 0 }}>
                   Last date for registration is 17.10.2024 within 6:00 PM
