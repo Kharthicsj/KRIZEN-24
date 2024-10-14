@@ -73,7 +73,7 @@ const NarrativePulse = () => {
                   <p>Round 2 - Held on 18.10.2024</p>
                 </div>
                 <p className="roundsContent" style={{ marginLeft: 0 }}>
-                  Last date for registration is 15.10.2024 within 6:00 PM
+                  Last date for registration is 17.10.2024 within 6:00 PM
                 </p>
               </div>
             </div>
