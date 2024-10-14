@@ -106,7 +106,7 @@ const Paperpresentation = () => {
               KARTHIKEYAN P : <a href="tel:9080719270">9080719270</a>
             </p>
             <p className="contactsContent">
-              Varun S : <a href="tel:9842224919">9842224919</a>
+              Varun S : <a href="tel:9597196167">9597196167</a>
             </p>
             <p className="contactsContent">
               Sandhya G : <a href="tel:9363458890">9363458890</a>
