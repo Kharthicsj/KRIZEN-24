@@ -6,7 +6,7 @@ import Footer from "../components/Footer";
 import BeyondInks from "../Assets/images/Drawing.jpg";
 import FotoHunt from "../Assets/images/fotoHunt.jpg";
 import NarrativePulse from "../Assets/images/NarrativePulse.jpg";
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 
 const NonTechnical = () => {
   return (
@@ -33,7 +33,7 @@ const NonTechnical = () => {
                 non-grammatical way. This competition tests the narrative,
                 artistic, persuasive, and creative abilities of participants.
               </p>
-              <Link to="/beyondinks">Explore</Link> 
+              <Link to="/beyondinks">Explore</Link>
             </div>
           </div>
 
@@ -60,11 +60,12 @@ const NonTechnical = () => {
             <div className="card-details">
               <h4>NARRATIVE PULSE</h4>
               <p>
-                A contest that allows you to explore the vast creativity of
-                photography. This competition captures moments in time and
-                encourages you to enhance your editing skills.
+                Participants will create their own stories using words selected
+                on the spot, showcasing their creativity and story crafting
+                skills. This round encourages improvisation and quick thinking
+                while crafting engaging narratives.
               </p>
-              <Link to="/narrative-pulse">Explore</Link> 
+              <Link to="/narrative-pulse">Explore</Link>
             </div>
           </div>
         </div>
