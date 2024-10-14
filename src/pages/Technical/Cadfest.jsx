@@ -1,6 +1,6 @@
 import React from "react";
 import "../../style/events.css";
-import DownloadLogo from "../../Assets/images/download.png";
+// import DownloadLogo from "../../Assets/images/download.png";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
 
@@ -17,7 +17,7 @@ const Cadfest = () => {
               <a className="register" href="https://docs.google.com/forms/d/e/1FAIpQLSd58NVb3sjwI_yt4IYDHa-I_p_PiMwAAgLCgw5H-M3eGv7xKA/viewform?usp=sf_link">
                 Register
               </a>
-              <div className="register brochure">
+              {/* <div className="register brochure">
                 <a
                   href="\resources\Brochure\PaperPresentation Brochure.pdf"
                   download="Paper Presentation Brochure"
@@ -25,7 +25,7 @@ const Cadfest = () => {
                   Brochure
                 </a>
                 <img className="download" src={DownloadLogo} alt="download" />
-              </div>
+              </div> */}
             </div>
           </div>
           <div className="about">

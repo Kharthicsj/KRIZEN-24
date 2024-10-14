@@ -24,7 +24,7 @@ const Workshop = () => {
               <div className="heading">3D PRINTING</div>
               <div className="main_links">
                 <button className="register">Registration open's soon</button>
-                <div className="register brochure">
+                {/* <div className="register brochure">
                   <a
                     href="../../resources/Brochure/3DPrinting Brochure.pdf"
                     download="3D Printing Brochure"
@@ -32,7 +32,7 @@ const Workshop = () => {
                     Brochure
                   </a>
                   <img className="download" src={downloadIcon} alt="download" />
-                </div>
+                </div> */}
               </div>
             </div>
             <div className="about">

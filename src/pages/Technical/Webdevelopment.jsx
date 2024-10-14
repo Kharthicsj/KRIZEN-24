@@ -2,7 +2,7 @@ import React from "react";
 import "../../style/events.css";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
-import DownloadLogo from "../../Assets/images/download.png";
+// import DownloadLogo from "../../Assets/images/download.png";
 
 const WebDevelopment = () => {
   return (
@@ -17,12 +17,12 @@ const WebDevelopment = () => {
               <a href="https://docs.google.com/forms/d/e/1FAIpQLSc6w__E1wwMYu3ZTHBsgegm8K2cX6x-KD4Ad0sCyHDqakkxDw/viewform?usp=sf_link" className="register">
                 Register
               </a>
-              <div className="register brochure">
+              {/* <div className="register brochure">
                 <a href={"#brochure"} download="Paper Presentation Brochure">
                   Brochure
                 </a>
                 <img className="download" src={DownloadLogo} alt="download" />
-              </div>
+              </div> */}
             </div>
           </div>
           <div className="about">

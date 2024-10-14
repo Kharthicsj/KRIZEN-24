@@ -1,6 +1,6 @@
 import React from "react";
 import "../../style/events.css";
-import DownloadLogo from "../../Assets/images/download.png";
+// import DownloadLogo from "../../Assets/images/download.png";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 
@@ -17,7 +17,7 @@ const Circuittrack = () => {
               <a className="register" href="https://docs.google.com/forms/d/e/1FAIpQLSfT1HbvPcfmW2GZ8dwsEZoth0k6JvIHtSz7l_McYjENR661kA/viewform?usp=pp_url">
                 Register
               </a>
-              <div className="register brochure">
+              {/* <div className="register brochure">
                 <a
                   href="/resources/Brochure/PaperPresentation Brochure.pdf"
                   download="Paper Presentation Brochure"
@@ -25,7 +25,7 @@ const Circuittrack = () => {
                   Brochure
                 </a>
                 <img className="download" src={DownloadLogo} alt="download" />
-              </div>
+              </div> */}
             </div>
           </div>
           <div className="about">

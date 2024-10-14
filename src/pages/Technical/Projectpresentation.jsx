@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
-import DownloadLogo from "../../Assets/images/download.png";
+// import DownloadLogo from "../../Assets/images/download.png";
 
 const ProjectPresentation = () => {
   return (
@@ -16,12 +16,12 @@ const ProjectPresentation = () => {
               <a className="register" href="https://docs.google.com/forms/d/e/1FAIpQLSdgAzVp0O2_0MQZJyZe6DdM_KsRKcHL3ph1I8rx2_RjqQ-znw/viewform?usp=pp_url">
                 Register
               </a>
-              <div className="register brochure">
+              {/* <div className="register brochure">
                 <a href={"#brochure"} download="Paper Presentation Brochure">
                   Brochure
                 </a>
                 <img className="download" src={DownloadLogo} alt="download" />
-              </div>
+              </div> */}
             </div>
           </div>
           <div className="about">

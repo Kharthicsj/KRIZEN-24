@@ -1,6 +1,6 @@
 import React from "react";
 import "../../style/events.css";
-import DownloadLogo from "../../Assets/images/download.png";
+// import DownloadLogo from "../../Assets/images/download.png";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 
@@ -20,7 +20,7 @@ const Fotohunt = () => {
               >
                 Register
               </a>
-              <div className="register brochure">
+              {/* <div className="register brochure">
                 <a
                   href="/resources/Brochure/PaperPresentation Brochure.pdf"
                   download="Paper Presentation Brochure"
@@ -28,7 +28,7 @@ const Fotohunt = () => {
                   Brochure
                 </a>
                 <img className="download" src={DownloadLogo} alt="download" />
-              </div>
+              </div> */}
             </div>
           </div>
           <div className="about">

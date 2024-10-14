@@ -1,6 +1,6 @@
 import React from "react";
 import "../../style/events.css";
-import DownloadLogo from "../../Assets/images/download.png";
+// import DownloadLogo from "../../Assets/images/download.png";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 
@@ -17,7 +17,7 @@ const Electroquiz = () => {
               <a className="register" href="https://docs.google.com/forms/d/e/1FAIpQLScR63YqpbpOfQzZ9DIbkmGvybV_nL4ODO6gSsFVgxKdIMr4cw/viewform?usp=sf_link">
                 Register
               </a>
-              <div className="register brochure">
+              {/* <div className="register brochure">
                 <a
                   href="/resources/Brochure/PaperPresentation Brochure.pdf"
                   download="Paper Presentation Brochure"
@@ -25,7 +25,7 @@ const Electroquiz = () => {
                   Brochure
                 </a>
                 <img className="download" src={DownloadLogo} alt="download" />
-              </div>
+              </div> */}
             </div>
           </div>
           <div className="about">

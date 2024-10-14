@@ -1,6 +1,6 @@
 import React from "react";
 import "../../style/events.css";
-import DownloadLogo from "../../Assets/images/download.png";
+// import DownloadLogo from "../../Assets/images/download.png";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
 
@@ -17,7 +17,7 @@ const Oldtownroad = () => {
               <a className="register" href="#registation-closed">
                 Registration open's soon
               </a>
-              <div className="register brochure">
+              {/* <div className="register brochure">
                 <a
                   href="\resources\Brochure\PaperPresentation Brochure.pdf"
                   download="Paper Presentation Brochure"
@@ -25,7 +25,7 @@ const Oldtownroad = () => {
                   Brochure
                 </a>
                 <img className="download" src={DownloadLogo} alt="download" />
-              </div>
+              </div> */}
             </div>
           </div>
           <div className="about">
