@@ -47,8 +47,7 @@ const WebDevelopment = () => {
                     A specific topic will be provided to the participants on
                     18.10.2024. Participants will have to build a Website
                     or an application based on the theme provided. Participants
-                    cannot build both. Two developers who prevail will be
-                    awarded accordingly.
+                    cannot build both. This is an Individual Event.
                   </p>
                   <br />
                   <div className="listsContent webListContent">
@@ -66,14 +65,6 @@ const WebDevelopment = () => {
                         are using.
                       </li>
                       <li>Participants can submit only one entry.</li>
-                      <li>
-                        Participants can form a team containing maximum of FOUR
-                        members.
-                      </li>
-                      <li>
-                        If you are participating as a team, only the team leader
-                        has to register.
-                      </li>
                       <li>
                         Participants should also give a brief description about
                         their website or application.
