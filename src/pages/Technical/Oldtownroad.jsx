@@ -1,8 +1,9 @@
 import React from "react";
 import "../../style/events.css";
-// import DownloadLogo from "../../Assets/images/download.png";
+import DownloadLogo from "../../Assets/images/download.png";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
+import InfoVdo from "../../Assets/video/old town road.mp4";
 
 const Oldtownroad = () => {
   return (
@@ -14,18 +15,21 @@ const Oldtownroad = () => {
           <div className="title">
             <div className="heading">OLD TOWN ROAD</div>
             <div className="main_links">
-              <a className="register" href="#registation-closed">
-                Registration open's soon
+              <a
+                className="register"
+                href="https://docs.google.com/forms/d/e/1FAIpQLScoCpSMl0MWTva1gF9rnSbgC1nYAVpgfGV622hqBO6C_Z_NvQ/viewform?usp=sf_link"
+              >
+                Register
               </a>
-              {/* <div className="register brochure">
+              <div className="register brochure">
                 <a
-                  href="\resources\Brochure\PaperPresentation Brochure.pdf"
-                  download="Paper Presentation Brochure"
+                  href={InfoVdo}
+                  download="Old Town Road Info"
                 >
-                  Brochure
+                  About Event
                 </a>
                 <img className="download" src={DownloadLogo} alt="download" />
-              </div> */}
+              </div>
             </div>
           </div>
           <div className="about">
@@ -54,6 +58,12 @@ const Oldtownroad = () => {
                     </ul>
                   </div>
                 </div>
+                <h3 className="roundsTitle">WhtasApp Group Link</h3>
+                <div className="roundsContent">
+                  <a href="https://chat.whatsapp.com/LDODYYE81o80WQkgJSiWam">
+                    https://chat.whatsapp.com/LDODYYE81o80WQkgJSiWam
+                  </a>
+                </div>
                 <h3 className="roundsTitle">Date & Timings</h3>
                 <div className="roundsContent">
                   <p>Round 1: Commences on 18.10.2024 @ 10:00 AM</p>
@@ -70,13 +80,13 @@ const Oldtownroad = () => {
               Prajesh Rodrico A : <a href="tel:9080001557">9080001557</a>
             </p>
             <p className="contactsContent">
-            Thamaraiselvi S : <a href="tel:8015644159">8015644159</a>
+              Thamaraiselvi S : <a href="tel:8015644159">8015644159</a>
             </p>
             <p className="contactsContent">
-            santhoshkumar E : <a href="tel:9047811140">9047811140</a>
+              santhoshkumar E : <a href="tel:9047811140">9047811140</a>
             </p>
             <p className="contactsContent">
-            AATHYANDHAPRABHU P : <a href="tel:8668134412">8668134412</a>
+              AATHYANDHAPRABHU P : <a href="tel:8668134412">8668134412</a>
             </p>
           </div>
         </div>
