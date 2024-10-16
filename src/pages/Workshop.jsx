@@ -71,7 +71,7 @@ const Workshop = () => {
                       robotics and the obstacles faced in real-world
                       implementation.
                     </p>
-                    <p>Resource Person : Dr.D.Pritima, M.E, Ph.D</p>
+                    {/* <p>Resource Person : Dr.D.Pritima, M.E, Ph.D</p> */}
                   </div>
                   <h3 className="roundsTitle">WhtasApp Group Link</h3>
                   <div className="roundsContent">
