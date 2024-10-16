@@ -62,7 +62,7 @@ const Homepage = () => {
           <img className="event__image second_image" src={NonTechnical} alt="" />
         </div>
 
-        {/* <div className="event fade-in">
+        <div className="event fade-in">
           <img className="event__image" src={Workshop} alt="" />
           <div className="event__div">
             <div className="inner__content">
@@ -77,7 +77,7 @@ const Homepage = () => {
               </Link>
             </div>
           </div>
-        </div> */}
+        </div>
       </section>
 
       <Footer />
