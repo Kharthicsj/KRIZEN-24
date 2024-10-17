@@ -14,8 +14,11 @@ const Circuittrack = () => {
           <div className="title">
             <div className="heading">CIRCUIT TRACK</div>
             <div className="main_links">
-              <a className="register" href="https://docs.google.com/forms/d/e/1FAIpQLSfT1HbvPcfmW2GZ8dwsEZoth0k6JvIHtSz7l_McYjENR661kA/viewform?usp=pp_url">
-                Register
+              <a
+                className="register"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSfT1HbvPcfmW2GZ8dwsEZoth0k6JvIHtSz7l_McYjENR661kA/viewform?usp=pp_url"
+              >
+                Registration Closed
               </a>
               {/* <div className="register brochure">
                 <a
@@ -84,7 +87,9 @@ const Circuittrack = () => {
                 </div>
                 <h3 className="roundsTitle">WhtasApp Group Link</h3>
                 <div className="roundsContent">
-                    <a href="https://chat.whatsapp.com/KRZRLIEW7mIAcYLhj0jYnQ">https://chat.whatsapp.com/KRZRLIEW7mIAcYLhj0jYnQ</a>
+                  <a href="https://chat.whatsapp.com/KRZRLIEW7mIAcYLhj0jYnQ">
+                    https://chat.whatsapp.com/KRZRLIEW7mIAcYLhj0jYnQ
+                  </a>
                 </div>
                 <h3 className="roundsTitle">Date & Timings</h3>
                 <div className="roundsContent">

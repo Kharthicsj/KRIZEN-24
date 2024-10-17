@@ -18,7 +18,7 @@ const Paperpresentation = () => {
                 className="register"
                 href="https://docs.google.com/forms/d/e/1FAIpQLSeX2DpxP6Cksxq5dlu-zy20an9sftIx-qQElmALojFIHjfNzg/viewform?usp=sf_link"
               >
-                Register
+                Registration Closed
               </a>
               {/* <div className="register brochure">
                 <a

@@ -14,8 +14,11 @@ const WebDevelopment = () => {
           <div className="title">
             <div className="heading">WEB/APP DEVELOPMENT</div>
             <div className="main_links">
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSc6w__E1wwMYu3ZTHBsgegm8K2cX6x-KD4Ad0sCyHDqakkxDw/viewform?usp=sf_link" className="register">
-                Register
+              <a
+                href="https://docs.google.com/forms/d/e/1FAIpQLSc6w__E1wwMYu3ZTHBsgegm8K2cX6x-KD4Ad0sCyHDqakkxDw/viewform?usp=sf_link"
+                className="register"
+              >
+                Registration Closed
               </a>
               {/* <div className="register brochure">
                 <a href={"#brochure"} download="Paper Presentation Brochure">
@@ -45,9 +48,9 @@ const WebDevelopment = () => {
                 <div className="roundsContent">
                   <p>
                     A specific topic will be provided to the participants on
-                    18.10.2024. Participants will have to build a Website
-                    or an application based on the theme provided. Participants
-                    cannot build both. This is an Individual Event.
+                    18.10.2024. Participants will have to build a Website or an
+                    application based on the theme provided. Participants cannot
+                    build both. This is an Individual Event.
                   </p>
                   <br />
                   <div className="listsContent webListContent">
@@ -94,7 +97,9 @@ const WebDevelopment = () => {
                 </div>
                 <h3 className="roundsTitle">WhtasApp Group Link</h3>
                 <div className="roundsContent">
-                    <a href="https://chat.whatsapp.com/FcflF8hLmlt89uIyQwVHV3">https://chat.whatsapp.com/FcflF8hLmlt89uIyQwVHV3</a>
+                  <a href="https://chat.whatsapp.com/FcflF8hLmlt89uIyQwVHV3">
+                    https://chat.whatsapp.com/FcflF8hLmlt89uIyQwVHV3
+                  </a>
                 </div>
                 <h3 className="roundsTitle">Date & Timings</h3>
                 <div className="roundsContent">

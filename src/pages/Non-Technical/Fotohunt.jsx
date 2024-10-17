@@ -18,7 +18,7 @@ const Fotohunt = () => {
                 className="register"
                 href="https://docs.google.com/forms/d/e/1FAIpQLSezqKDP4jeaBZZjxopYhTCZYRhitA5PHX_3ORP1PFoXQw3aGw/viewform?usp=pp_url"
               >
-                Register
+                Registration Closed
               </a>
               {/* <div className="register brochure">
                 <a

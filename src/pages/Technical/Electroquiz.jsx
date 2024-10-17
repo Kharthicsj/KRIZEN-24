@@ -15,7 +15,7 @@ const Electroquiz = () => {
             <div className="heading">ELECTRIOQUIZ</div>
             <div className="main_links">
               <a className="register" href="https://docs.google.com/forms/d/e/1FAIpQLScR63YqpbpOfQzZ9DIbkmGvybV_nL4ODO6gSsFVgxKdIMr4cw/viewform?usp=sf_link">
-                Register
+              Registration Closed
               </a>
               {/* <div className="register brochure">
                 <a
